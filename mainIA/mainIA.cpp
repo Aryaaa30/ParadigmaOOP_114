@@ -7,7 +7,9 @@ using namespace std;
 
 int main()
 {
-    
+    ibu* varIbu = new ibu("Dini");
+    ibu* varIbu2 = new ibu("Novi");
+    anak* varAnak1 
 }
 
 
