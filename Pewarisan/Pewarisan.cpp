@@ -31,8 +31,8 @@ public:
     ~pelajar() {
         cout << "Pelajar dihapus\n" << endl;
     }
-    sring perkenalan() {
-        return "Hallo, Nama Saya " + nama + " dari sekolah " +
+    string perkenalan() {
+        return "Hallo, Nama Saya " + nama + " dari sekolah " + sekolah + "\n\n";
     }
 };
 
