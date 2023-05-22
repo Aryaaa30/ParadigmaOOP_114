@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pewarisan", "Pewarisan\Pewa
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asosiasi", "Asosiasi\Asosiasi.vcxproj", "{0B911281-E232-43E8-A3B5-99D93DD5430C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainIA", "mainIA\mainIA.vcxproj", "{92F1DE6C-2F73-4B4E-A350-4DA2C9D1608D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{0B911281-E232-43E8-A3B5-99D93DD5430C}.Release|x64.Build.0 = Release|x64
 		{0B911281-E232-43E8-A3B5-99D93DD5430C}.Release|x86.ActiveCfg = Release|Win32
 		{0B911281-E232-43E8-A3B5-99D93DD5430C}.Release|x86.Build.0 = Release|Win32
+		{92F1DE6C-2F73-4B4E-A350-4DA2C9D1608D}.Debug|x64.ActiveCfg = Debug|x64
+		{92F1DE6C-2F73-4B4E-A350-4DA2C9D1608D}.Debug|x64.Build.0 = Debug|x64
+		{92F1DE6C-2F73-4B4E-A350-4DA2C9D1608D}.Debug|x86.ActiveCfg = Debug|Win32
+		{92F1DE6C-2F73-4B4E-A350-4DA2C9D1608D}.Debug|x86.Build.0 = Debug|Win32
+		{92F1DE6C-2F73-4B4E-A350-4DA2C9D1608D}.Release|x64.ActiveCfg = Release|x64
+		{92F1DE6C-2F73-4B4E-A350-4DA2C9D1608D}.Release|x64.Build.0 = Release|x64
+		{92F1DE6C-2F73-4B4E-A350-4DA2C9D1608D}.Release|x86.ActiveCfg = Release|Win32
+		{92F1DE6C-2F73-4B4E-A350-4DA2C9D1608D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
